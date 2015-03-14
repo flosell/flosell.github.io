@@ -23,7 +23,15 @@ One thing is missing: The glue, the build pipeline that between a commit and you
 
 What we need is a way to put our build pipelines where our business logic, our database-layout and our server configurations already are: **in code**!
 
-How does this help? It brings with it everything we love about code: We can structure it, version it, test it, share it with others any way we like! We can take advantage of all the tools and libraries we know and love!
+What does that get us? It gets us everything we love about code: We can structure it, version it, test it, share it with others any way we like! We can take advantage of all the tools and libraries we know and love!
+
+You want to find out if your deployment really stops when a smoketest fails on staging? A small test with the right mock will tell you!
+
+All your development teams should use the same process to deploy to your private cloud? Just put everything into a small library for everyone to include in their pipelines!
+
+Your management requires your pipeline to behave differently on mondays, except for rainy days? You can build that! (not saying you should)
+
+Simply put: Our build pipeline can be just like any other piece of software we release, with the same tools, methods and quality we are used to! 
 
 
 [fowler-ci-fix-immediately]: http://www.martinfowler.com/articles/continuousIntegration.html#FixBrokenBuildsImmediately
