@@ -1,0 +1,12 @@
+# Site settings
+title: Florian Sellmayr
+email: 
+description: A blog about build pipelines, dev and ops
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://flosell.github.io" # the base hostname & protocol for your site
+twitter_username: florian.sellmayr
+github_username:  flosell
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
