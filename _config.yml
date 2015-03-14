@@ -4,7 +4,7 @@ email:
 description: A blog about build pipelines, dev and ops
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://flosell.github.io" # the base hostname & protocol for your site
-twitter_username: florian.sellmayr
+twitter_username: FSellmayr
 github_username:  flosell
 
 # Build settings
