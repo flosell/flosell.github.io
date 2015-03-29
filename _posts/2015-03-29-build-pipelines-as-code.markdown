@@ -2,7 +2,7 @@
 layout: post
 title:  "Build Pipelines as Code"
 categories: lambdacd
-date:   2015-03-14 13:26:16
+date:   2015-03-29 21:39:00
 ---
 
 The problem
