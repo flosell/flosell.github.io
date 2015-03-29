@@ -2,13 +2,13 @@
 layout: post
 title:  "Introducing LambdaCD"
 categories: lambdacd
-date:   2015-03-29 13:26:16
+date:   2015-03-29 21:50:00
 ---
 
 Preface
 =======
 
-In my last post (TODO: add link) I argued that we should start treating our build pipelines as code, as potentially complex applications that serve a single purpose: To test, publish and deploy your software. 
+In my [last post]({% post_url 2015-03-29-build-pipelines-as-code %}) I argued that we should start treating our build pipelines as code, as potentially complex applications that serve a single purpose: To test, publish and deploy your software. 
 
 What I didn't mention was how to get there. Do I want everyone to throw away their beloved Jenkins and go develop their own buildservers? 
 
