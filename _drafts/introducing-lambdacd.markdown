@@ -56,4 +56,13 @@ In short, this is what you code:
 
 And this is what you get: (yes, I know this isn't stellar web design)
 
-![LambdaCD ]({{ site.baseurl }}/assets/lambdacdPipeline.png)
+![LambdaCD]({{ site.baseurl }}/assets/lambdacdPipeline.png)
+
+
+
+Getting started
+===============
+
+The easiest way to get started is to use [Leiningen](http://leiningen.org/) to generate a project for you: `lein new lambdacd <SOME-PROJECT-NAME>`. This will create a project for you that you can run using `lein run`. TODO: this isn't implemented yet
+
+Now go ahead, have a look at the generated code, play around a bit and then come back, tell me what you think.
