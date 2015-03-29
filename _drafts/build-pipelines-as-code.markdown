@@ -34,4 +34,6 @@ Your management requires your pipeline to behave differently on mondays, except 
 Simply put: Our build pipeline can be just like any other piece of software we release, with the same tools, methods and quality we are used to! 
 
 
+**Next up:** A clojure library that let's you do all that!
+
 [fowler-ci-fix-immediately]: http://www.martinfowler.com/articles/continuousIntegration.html#FixBrokenBuildsImmediately
