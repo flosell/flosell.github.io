@@ -63,6 +63,6 @@ And this is what you get: (yes, I know this isn't stellar web design)
 Getting started
 ===============
 
-The easiest way to get started is to use [Leiningen](http://leiningen.org/) to generate a project for you: `lein new lambdacd <SOME-PROJECT-NAME>`. This will create a project for you that you can run using `lein run`. TODO: this isn't implemented yet
+The easiest way to get started is to use [Leiningen](http://leiningen.org/) to generate a project for you: `lein new lambdacd <SOME-PROJECT-NAME>`. This will create a project for you that you can run using `lein run`. `lein uberjar` creates a self-contained jar-file that can run on any server with java installed. That's all you need for your very own, custom built build-server!
 
 Now go ahead, have a look at the generated code, play around a bit and then come back, tell me what you think.
