@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Build Pipelines as Code"
-categories: lambdacd
+categories: cd
 date:   2015-03-29 21:39:00
 ---
 

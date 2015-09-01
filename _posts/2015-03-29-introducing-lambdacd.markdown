@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introducing LambdaCD"
-categories: lambdacd
+categories: cd
 date:   2015-03-29 21:50:00
 ---
 
